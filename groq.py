@@ -1,5 +1,5 @@
 # groq.py  (pip install openai)
-# lol just to make a change
+# lol just to make a change the thing s fr messsing up
 import config
 from openai import OpenAI
 
